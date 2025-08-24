@@ -2,8 +2,6 @@
 
 A full-stack application that simulates how energy utilities manage **usage tracking, billing, and payments**. Built with **React + Spring Boot 3 + PostgreSQL**, secured with **JWT & role-based access**, and integrated with **Stripe Checkout + Webhook automation**.
 
-![Architecture Diagram](./docs/architecture.png)
-
 ---
 
 ## 🚀 Features
